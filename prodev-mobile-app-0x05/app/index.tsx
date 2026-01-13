@@ -21,7 +21,7 @@ export default function Index() {
           <View style={styles.container}>
             {/* Company Logo */}
             <View style={styles.companyLogo}>
-              <Image source={require("@/assets/images/Logo.png")} />
+              <Image source={require("@/assets/images/._Logo.png")} />
             </View>
 
             {/* Text Group */}
