@@ -1,5 +1,8 @@
 {
   "expo": {
+    "web": {
+      "bundler": "metro"
+    },
     "name": "prodev-mobile-app-0x04",
     "slug": "prodev-mobile-app-0x04",
     "version": "1.0.0",
